@@ -1,0 +1,8 @@
+prefix=/home/hiwonder/ros/install
+
+Name: jetmax_control_gazebo
+Description: Description of jetmax_control_gazebo
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs rospy std_msgs std_srvs message_runtime

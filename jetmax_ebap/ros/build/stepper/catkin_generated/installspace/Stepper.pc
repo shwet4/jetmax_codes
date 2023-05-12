@@ -1,0 +1,8 @@
+prefix=/home/hiwonder/ros/install
+
+Name: Stepper
+Description: Description of Stepper
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
