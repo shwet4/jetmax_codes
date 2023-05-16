@@ -18,3 +18,9 @@ projection_matrix:
   rows: 3
   cols: 4
   data: [434.8992309570312, 0, 267.0836625086558, 0, 0, 492.9932556152344, 239.2146173041956, 0, 0, 0, 1, 0]
+  
+  
+  
+  wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+  
+  sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
