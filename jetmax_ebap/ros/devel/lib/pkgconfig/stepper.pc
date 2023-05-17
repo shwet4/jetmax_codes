@@ -1,8 +1,0 @@
-prefix=/home/hiwonder/ros/devel
-
-Name: stepper
-Description: Description of stepper
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

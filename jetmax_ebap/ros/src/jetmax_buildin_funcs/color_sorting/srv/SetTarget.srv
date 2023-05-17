@@ -1,5 +1,0 @@
-string color_name
-bool is_enable
----
-bool success
-string message

@@ -1,8 +1,0 @@
-prefix=/home/hiwonder/ros/install
-
-Name: color_palletizing
-Description: Description of color_palletizing
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: messages_runtime rospy std_msgs std_srvs
